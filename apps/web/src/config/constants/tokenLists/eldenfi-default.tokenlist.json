@@ -1,0 +1,142 @@
+{
+  "name": "EldenFi Default List",
+  "timestamp": "2023-11-11T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://elden.fi/logo.png",
+  "keywords": ["elden", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0x3e29b4AFcddb996715BF7E008D216A1eF4d20ec8",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 84531,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/weth.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xf6F76fEF66396fc6F1a4D67B50Efd01b975A86B2",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 84531,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/usdt.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x077DC5954616fDb87277fF55a7D70F7C37fe0EC2",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 84531,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/usdc.png"
+    },
+    {
+      "name": "Elden Token",
+      "symbol": "ELDEN",
+      "address": "0xBfeE7D5987CC1e58126c5DCD444145633A58d30e",
+      "chainId": 84531,
+      "decimals": 18,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/elden.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x06c2e7C81798a00eCc4892829884A3797C06116B",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 534351,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/weth.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x633a39b7347610E2CcEd559c579a69cf82126119",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 534351,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xa2EB04Bff2Ac8b9EFa47403F8dA213aCa809cECE",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 534351,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/usdt.png"
+    },
+    {
+      "name": "Elden Token",
+      "symbol": "ELDEN",
+      "address": "0xf857482330C205A0353d4B40FF82Ae6004d7B9a0",
+      "chainId": 534351,
+      "decimals": 18,
+      "logoURI": "https://eldenfi-tokens.netlify.app/images/symbol/elden.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/bnb.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/busd.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://elden.fi/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/wbtc.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/usdt.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://elden.fi/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0xFa60D973F7642B748046464e165A65B7323b0DEE",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://elden.fi/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Test BUSD Token",
+      "symbol": "tBUSD",
+      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://tokens.elden.fi/images/symbol/busd.png"
+    }
+  ]
+}
