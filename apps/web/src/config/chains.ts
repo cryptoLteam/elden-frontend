@@ -27,10 +27,10 @@ export const baseGoerli = {
       webSocket: ['wss://base-goerli.g.alchemy.com/v2'],
     },
     default: {
-      http: ['https://goerli.base.org'],
+      http: ['https://base-goerli.publicnode.com', 'https://goerli.base.org'],
     },
     public: {
-      http: ['https://goerli.base.org'],
+      http: ['https://base-goerli.publicnode.com', 'https://goerli.base.org'],
     },
   },
   blockExplorers: {
